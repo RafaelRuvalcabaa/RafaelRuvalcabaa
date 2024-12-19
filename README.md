@@ -8,10 +8,10 @@ Actualmente, estoy profundizando mis conocimientos en **Express.js**, aprendiend
 
 ## 🚀 Habilidades
 
-- **Lenguajes:** JavaScript, Python  
+- **Lenguajes:** JavaScript, 🔜 Python  
 - **Backend:** Node.js, Express.js  
-- **Frontend:** HTML, CSS (básico), React.
-- **Bases de Datos:** MongoDB, MySQL.  
+- **Frontend:** HTML, CSS (básico), 🔜 React
+- **Bases de Datos:** MySQL.  
 - **Otros:** Git, manejo de promesas, programación orientada a objetos.
 
 ---
@@ -20,7 +20,7 @@ Actualmente, estoy profundizando mis conocimientos en **Express.js**, aprendiend
 
 - Desarrollo avanzado con **Express.js** y creación de middlewares personalizados.  
 - Mejores prácticas en arquitectura RESTful.
-- React.
+- Proximamente React, Python.
 
 ---
 
