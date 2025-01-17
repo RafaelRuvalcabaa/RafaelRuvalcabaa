@@ -18,7 +18,8 @@ Actualmente, estoy profundizando mis conocimientos en **Express.js**, aprendiend
 
 ## 🌱 Actualmente aprendiendo
 
-- Desarrollo avanzado con **Express.js** y creación de middlewares personalizados.  
+- Perfeccionando mis conocimientos en algoritmos y estructuras de datos.
+- Desarrollo avanzado con **Express.js**. 
 - Mejores prácticas en arquitectura RESTful.
 - Proximamente React, Python.
 
@@ -30,5 +31,5 @@ Actualmente, estoy profundizando mis conocimientos en **Express.js**, aprendiend
 
 ---
 
-✨ **"Siempre estoy buscando nuevos retos y formas de mejorar mis habilidades. ¡Hablemos de tecnología!"**
+✨ **"Siempre estoy buscando nuevos retos y formas de mejorar mis habilidades."**
 
