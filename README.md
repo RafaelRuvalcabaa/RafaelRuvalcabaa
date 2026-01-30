@@ -1,53 +1,60 @@
-# José Rafael Ruvalcaba Sierra
-**Ingeniero en Computación | Sistemas, Automatización y Python**
-
-## Sobre mí
-Ingeniero en Computación recién egresado con una base sólida en sistemas operativos, redes de computadoras y fundamentos de hardware. Tengo conocimientos básicos de desarrollo de software, fundamentos de QA y análisis y resolución de problemas de sistemas. Familiarizado con conceptos de cloud usando AWS como referencia, incluyendo máquinas virtuales, almacenamiento, redes y conceptos de identidad. Experiencia en proyectos académicos relacionados con sistemas, hardware y entornos técnicos colaborativos. Proactivo, organizado y motivado a continuar aprendiendo y desarrollando habilidades en infraestructura, cloud y roles orientados a sistemas.
+# 👨‍💻 José Rafael Ruvalcaba Sierra  
+### Computer Engineer | Software Development | Programming  
 
 ---
 
-## Habilidades Técnicas
+## 🚀 About Me  
 
-**Lenguajes:**  
-- JavaScript  
-- Python (profundizando)
+Computer Engineer with a strong foundation in systems and a strong interest in software development and programming. I enjoy working with different technologies and exploring new tools to build efficient and scalable solutions.  
 
-**Sistemas y Automatización:**  
-- Linux y Windows  
-- Scripting básico en Python  
-- Automatización de tareas y procesos
+I currently work mainly with **Python**, and I also have experience with **JavaScript** for backend development and APIs. I have a solid understanding of programming fundamentals, problem-solving, and system-oriented thinking, along with basic knowledge of QA concepts and cloud fundamentals using **AWS** as reference.  
 
-**Backend y APIs :**  
-- Node.js  
-- Express.js  
-
-**Herramientas y Conceptos:**  
-- Git (control de versiones)  
-- Programación orientada a objetos  
-- Análisis de sistemas  
-- QA (fundamentos de pruebas manuales)
+Proactive, organized, and motivated to continuously learn and grow as a programmer while exploring diverse technologies and development environments.
 
 ---
 
-## Experiencia Relevante
+## 🛠️ Technical Skills  
 
-**Desarrollo de software para tienda de abarrotes** *(2024 – 2025)*  
-- Implementación de una solución de software para operaciones básicas.  
-- Aplicación de principios de programación y lógica de sistemas.  
-- Ajuste mediante pruebas reales y feedback.
+### 💻 Languages  
+- 🐍 Python (currently using)  
+- ⚡ JavaScript  
+
+### 🖥️ Systems  
+- 🐧 Linux  
+- 🪟 Windows  
+
+### 🌐 Backend & APIs  
+- 🧩 Node.js  
+- 🚀 Express.js  
+
+### 📦 Tools & Concepts  
+- 🔧 Git (version control)  
+- 🧠 Functional Programming  
+- 📊 System analysis  
+- 🧪 QA fundamentals  
 
 ---
 
-## Proyectos Destacados en GitHub
+## 💼 Relevant Experience  
 
-🔹 **Node-MySQL-REST-API**  
-API desarrollada con Node.js y MySQL, con rutas organizadas, manejo básico de errores y estructura modular.  
-
-
-## Contacto
-
-**LinkedIn:** www.linkedin.com/in/rafaelruvalcaba
+### 🏪 Software Development for a Local Grocery Store *(2024 – 2025)*  
+- Built a software solution for daily operations  
+- Applied programming principles and problem-solving skills  
+- Improved functionality through real-world testing and feedback  
 
 ---
 
-> Siempre en búsqueda de nuevos retos y formas de mejorar mis habilidades.
+## 📂 Featured GitHub Projects  
+
+### 🔹 Node-MySQL-REST-API  
+REST API developed using Node.js and MySQL with modular architecture and basic error handling.
+
+---
+
+## 📫 Contact  
+
+- 💼 LinkedIn: [www.linkedin.com/in/rafaelruvalcaba](https://www.linkedin.com/in/rafaelruvalcaba)
+
+---
+
+> 💡 Passionate about programming and constantly exploring new technologies.
