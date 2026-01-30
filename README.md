@@ -5,11 +5,13 @@
 
 ## 🚀 About Me  
 
-Computer Engineer with a strong foundation in systems and a strong interest in software development and programming. I enjoy working with different technologies and exploring new tools to build efficient and scalable solutions.  
+Computer Engineer with a strong foundation in systems and a strong interest in software development and programming. I enjoy working with different technologies and building efficient solutions.  
 
-I currently work mainly with **Python**, and I also have experience with **JavaScript** for backend development and APIs. I have a solid understanding of programming fundamentals, problem-solving, and system-oriented thinking, along with basic knowledge of QA concepts and cloud fundamentals using **AWS** as reference.  
+I currently work mainly with **Python**, and I also have experience with **JavaScript** for backend development and APIs. I have solid programming fundamentals, problem-solving skills, and system-oriented thinking.  
 
-Proactive, organized, and motivated to continuously learn and grow as a programmer while exploring diverse technologies and development environments.
+I also have **basic knowledge of cloud concepts using AWS**, including virtual machines, storage, and networking fundamentals.  
+
+Proactive, organized, and motivated to continuously learn and grow as a programmer. I am **open to learning and working with any technology or stack**.
 
 ---
 
@@ -22,6 +24,9 @@ Proactive, organized, and motivated to continuously learn and grow as a programm
 ### 🖥️ Systems  
 - 🐧 Linux  
 - 🪟 Windows  
+
+### ☁️ Cloud (Basic Knowledge)  
+- AWS (EC2, storage, networking fundamentals)  
 
 ### 🌐 Backend & APIs  
 - 🧩 Node.js  
@@ -57,4 +62,4 @@ REST API developed using Node.js and MySQL with modular architecture and basic e
 
 ---
 
-> 💡 Passionate about programming and constantly exploring new technologies.
+> 💡 Passionate about programming and open to learning new technologies.
