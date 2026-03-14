@@ -1,65 +1,58 @@
-# 👨‍💻 José Rafael Ruvalcaba Sierra  
-### Computer Engineer | Software Development | Programming  
+# 👨‍💻 José Rafael Ruvalcaba Sierra
+**Backend Engineer in Training · Python · Systems Design**
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-Computer Engineer with a strong foundation in systems and a strong interest in software development and programming. I enjoy working with different technologies and building efficient solutions.  
+Computer Engineer focused on backend development and software architecture.
+Currently building production-grade systems in Python — clean architecture, OOP, design patterns, and professional logging.
 
-I currently work mainly with **Python**, and I also have experience with **JavaScript** for backend development and APIs. I have solid programming fundamentals, problem-solving skills, and system-oriented thinking.  
+I don't just write code that works. I write code that's maintainable, testable, and built to grow.
 
-I also have **basic knowledge of cloud concepts using AWS**, including virtual machines, storage, and networking fundamentals.  
-
-Proactive, organized, and motivated to continuously learn and grow as a programmer. I am **open to learning and working with any technology or stack**.
-
----
-
-## 🛠️ Technical Skills  
-
-### 💻 Languages  
-- 🐍 Python (currently using)  
-- ⚡ JavaScript  
-
-### 🖥️ Systems  
-- 🐧 Linux  
-- 🪟 Windows  
-
-### ☁️ Cloud (Basic Knowledge)  
-- AWS (EC2, storage, networking fundamentals)  
-
-### 🌐 Backend & APIs  
-- 🧩 Node.js  
-- 🚀 Express.js  
-
-### 📦 Tools & Concepts  
-- 🔧 Git (version control)  
-- 🧠 Functional Programming  
-- 📊 System analysis  
-- 🧪 QA fundamentals  
+Currently progressing through a structured backend roadmap:
+`Python OOP` → `Python Avanzado` → `Testing` → `FastAPI` → `PostgreSQL` → `Docker` → `Arquitectura`
 
 ---
 
-## 💼 Relevant Experience  
+## 🛠️ Technical Skills
 
-### 🏪 Software Development for a Local Grocery Store *(2024 – 2025)*  
-- Built a software solution for daily operations  
-- Applied programming principles and problem-solving skills  
-- Improved functionality through real-world testing and feedback  
+**Languages**
+- 🐍 Python — OOP profundo, decoradores, generators, manejo de errores, logging profesional
+- JavaScript
+
+**Backend**
+- Diseño orientado a objetos (SOLID, composición, herencia)
+- Patrones de diseño (en progreso)
+
+**Tools**
+- Git — branches, rebase, stash, conventional commits, Pull Requests
+- VS Code
+- Linux (básico)
+---
+
+## 📂 Projects
+
+### 🏨 Hotel System *(en progreso)*
+Sistema de gestión hotelera construido en Python puro.
+- Arquitectura modular: personas, habitaciones, restaurante, reservaciones
+- Decoradores profesionales: logging automático, timer, validación de inputs
+- Manejo de errores con excepciones personalizadas por dominio
+- Logging estructurado a archivo con niveles INFO/ERROR
+- Git flow con ramas y conventional commits
+
+### 🏦 Bank System
+Sistema bancario construido en Python puro — primer proyecto de arquitectura real.
+- Clases: Account, Bank, Transfer, CuentaAhorros, CuentaCorriente
+- Herencia, composición y encapsulación aplicados
+- Excepciones personalizadas y logging profesional
+- Principios SOLID — SRP aplicado
 
 ---
 
-## 📂 Featured GitHub Projects  
-
-### 🔹 Node-MySQL-REST-API  
-REST API developed using Node.js and MySQL with modular architecture and basic error handling.
+## 📫 Contact
+💼 [LinkedIn](https://www.linkedin.com/in/rafaelruvalcaba)
 
 ---
 
-## 📫 Contact  
-
-- 💼 LinkedIn: [www.linkedin.com/in/rafaelruvalcaba](https://www.linkedin.com/in/rafaelruvalcaba)
-
----
-
-> 💡 Passionate about programming and open to learning new technologies.
+*Construyendo hacia Software Architect — un commit a la vez.*
