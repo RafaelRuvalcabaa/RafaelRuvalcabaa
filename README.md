@@ -23,6 +23,8 @@ Currently progressing through a structured backend roadmap:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake.svg">
 </picture>
 
+--- 
+
 ## 🛠️ Technical Skills
 
 **Languages**
