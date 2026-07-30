@@ -15,7 +15,7 @@ Currently progressing through a structured backend roadmap:
 
 ---
 
-### 🐍 Snake Animation
+### 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake-dark.svg">
