@@ -15,25 +15,15 @@ Currently progressing through a structured backend roadmap:
 
 ---
 
-### 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake.svg">
-</picture>
-
---- 
-
 ## 🛠️ Technical Skills
 
 **Languages**
 - 🐍 Python — OOP profundo, decoradores, generators, manejo de errores, logging profesional
-- JavaScript
+
 
 **Backend**
-- Diseño orientado a objetos (SOLID, composición, herencia)
-- Patrones de diseño (en progreso)
+- Diseño orientado a objetos
+- Patrones de diseño 
 
 **Tools**
 - Git — branches, rebase, stash, conventional commits, Pull Requests
@@ -43,7 +33,7 @@ Currently progressing through a structured backend roadmap:
 
 ## 📂 Projects
 
-### 🏨 Hotel System *(en progreso)*
+### 🏨 Hotel System
 Sistema de gestión hotelera construido en Python puro.
 - Arquitectura modular: personas, habitaciones, restaurante, reservaciones
 - Decoradores profesionales: logging automático, timer, validación de inputs
@@ -64,5 +54,3 @@ Sistema bancario construido en Python puro — primer proyecto de arquitectura r
 💼 [LinkedIn](https://www.linkedin.com/in/rafaelruvalcaba)
 
 ---
-
-*Construyendo hacia Software Architect — un commit a la vez.*
