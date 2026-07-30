@@ -13,6 +13,12 @@ I don't just write code that works. I write code that's maintainable, testable, 
 Currently progressing through a structured backend roadmap:
 `Python OOP` → `Python Avanzado` → `Testing` → `FastAPI` → `PostgreSQL` → `Docker` → `Arquitectura`
 
+--- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelRuvalcabaa/RafaelRuvalcabaa/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 🛠️ Technical Skills
